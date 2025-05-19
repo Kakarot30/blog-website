@@ -35,7 +35,7 @@ A full-stack application for writing, editing, saving, and publishing blogs with
 
 1. Clone this repository
 ```
-git clone <https://github.com/Kakarot30/blog-website.git>
+git clone https://github.com/Kakarot30/blog-website.git
 ```
 
 2. Install dependencies for frontend and backend
